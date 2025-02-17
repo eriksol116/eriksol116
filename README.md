@@ -62,6 +62,8 @@
   
 - 🚀Raydium Volume booster🚀
 
+- 🚀Sol-Price-Loss-Free-Bot🚀 ( The SOL Price Loss-Free Bot is a useful tool that helps protect against losses caused by SOL price fluctuations. )
+
 - 🚀Perpetual Market Maker bot
 
 - 🚀Multi-DEX Volume Booster🚀
