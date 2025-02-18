@@ -74,7 +74,7 @@
 
 - 🚀Super Raydium sniper V5.0 using Yellow-Stone GRPC within 1st second🚀 This bot snipe and buy token within 1 or 2 blocks after pool creation and sell with strategy. so bot always make profit.
 
-- 🚀Solana Copytrading bot🚀 (Pumpfun, Raydium, Juipter, Meteora)
+- 🚀Solana Copytrading bot Grpc V3.0🚀 : MultiDex (Pumpfun, Raydium, Juipter, Meteora)
 
 - 🚀Solana Arbitrage bot🚀
 
